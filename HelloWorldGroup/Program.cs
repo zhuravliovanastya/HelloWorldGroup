@@ -6,7 +6,9 @@ namespace HelloWorldGroup
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Group");  
+            Console.WriteLine("Hello Group");
+            Console.writeLine("Finally");
+
         }
     }
 }
